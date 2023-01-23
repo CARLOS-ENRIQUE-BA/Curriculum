@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#columnaDerecha{
+    background-color: white;
+    width: 54%;
+    display: flex;
+    padding: 4% 0 0 4%;
+    flex-direction: column;
+}
+#info-top{
+    font-size: 20px;
+    margin-bottom: 8%;
+}
+#title{
+    margin-bottom: 2%;
+    width: 45%;
+    border-bottom: solid black;
+}
+#info-aboutMe{
+    font-size: 25px;
+    margin-bottom: 8%;
+    width: 80%;
+}
+#list-info{
+    margin-left: 10%;
+    margin-bottom: 8%;
+}
