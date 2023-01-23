@@ -3,7 +3,6 @@ import ColumnRight from "../components/atoms/organims/ColumnRight";
 import '../assets/styles/Home.css'
 
 function Home(){
-    const studenList = [{name:"Carlos",},{name:"Gumeta",},{name:"Veronica",},{name:"Noe",},{name:"Ali",}]
     return (
         <>
             <div id="page">
